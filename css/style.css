@@ -513,7 +513,7 @@ a:hover, a:focus, a:active {
   font-size: 110px;
   line-height: 100px;
   margin: 0;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 .text-intro-wrap .text-intro h1 em {
